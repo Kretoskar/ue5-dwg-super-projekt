@@ -14,6 +14,3 @@ class ADwgGameMode : public AGameModeBase
 public:
 	ADwgGameMode();
 };
-
-
-
